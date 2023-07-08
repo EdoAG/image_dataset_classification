@@ -1,0 +1,9 @@
+Dataset: 
+https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification
+Librerie usate:
+import os
+import time
+import warnings
+import matplotlib.pyplot as plt
+import tensorflow as tf
+from keras import layers
